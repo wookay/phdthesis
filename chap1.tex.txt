@@ -1,15 +1,15 @@
 == \chapter{Introduction}
 == 
 ++ 최초에 컴퓨팅(Computing)의 시작은 과학 분야에서였고, 그것은 처음 컴퓨터를 만든 목적과 이유이기도 하다.
-++ 이곳은 과학 계산과 같은 본질적인 문제를 주로 다루면서 진화해 왔다.
-++ 그동안 수많은 프로그래밍 도구는 보다 높은 추상화와 일반화를 이루려고 노력하였다.
+++ 이곳은 과학 계산과 같은 본질적인 문제를 주로 다루며 진화해 왔다.
+++ 그러한 동안, 수많은 프로그래밍 도구들은 보다 높은 추상화와 보편화를 이루기 위해 노력하였다.
 -- Scientific computing has evolved from being essentially the only kind of
 -- computing that existed, to being a small part of how and why computers
 -- are used.
 -- Over this period of time, programming tools have advanced in terms of
 -- the abstractions and generalizations they are capable of.
 == 
-++ 전문화된 특수한 지식을, 보다 보편적인 강력한 이론에서 받아들이는 식으로 과학은 진보해 왔다.
+++ 과학은 전문화된 특수한 지식을, 보다 보편적인 강력한 이론에서 받아들이는 식으로 진보해 왔다.
 ++ 프로그래밍 언어의 세계에서도 마찬가지다: 특수한 목적으로만 사용되는 언어를
 ++ 보다 강력하고 보편성을 갖는 언어에서 흡수하는 식이다.
 -- Science as a whole evolves through the incorporation of specialized bits
@@ -17,9 +17,9 @@
 -- There is a parallel in the world of programming languages: special-purpose
 -- languages have been subsumed by more powerful and general
 -- languages.
-++ 이런 경향은 과학 분야 컴퓨팅에선 어떠한가?
+++ 이러한 경향이 과학 분야 컴퓨팅에선 어떠한가?
 ++ 놀랍지만 우리가 기대한 만큼은 아직 아니다. 
-++ 과학자와 기술자는 새로운 프로그래밍 언어를 두고 신경끄고 살거나
+++ 과학자와 기술자는 새로운 프로그래밍 언어이 있어도 신경끄고 살거나
 ++ 그들이 당면한 문제에 억지로 구겨넣고 있는 수준이다.
 -- How has this trend affected scientific computing?
 -- The surprising answer is: not as much as we would like.
@@ -57,7 +57,7 @@
 == \end{figure}
 == \end{singlespace}
 == 
-++ 사실 우리는 과학 분야를 위해 설계된 \emph{49}가지 프로그래밍 언어를 찾아보았다.
+++ 사실 우리는 과학 분야를 위해 설계된 \emph{49가지} 프로그래밍 언어를 찾아보았다.
 ++ 포트란부터 (figure~\ref{gangof40}) 시작해서 말이다.
 ++ 이렇게나 많은 까닭은 무엇인가.
 -- In fact, we have discovered at least \emph{49} programming languages
