@@ -19,7 +19,7 @@
 -- languages.
 ++ 이러한 경향이 과학 분야 컴퓨팅에선 어떠한가?
 ++ 놀랍지만 우리가 기대한 만큼은 아직 아니다. 
-++ 과학자와 기술자는 새로운 프로그래밍 언어이 있어도 신경끄고 살거나
+++ 과학자와 기술자는 새로운 프로그래밍 언어가 있어도 신경끄고 살거나
 ++ 그들이 당면한 문제에 억지로 구겨넣고 있는 수준이다.
 -- How has this trend affected scientific computing?
 -- The surprising answer is: not as much as we would like.
